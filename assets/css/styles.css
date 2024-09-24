@@ -19,6 +19,18 @@ html, body {
     margin-left: -75px;
 }
 
+.container-jugadores {
+    padding: 20px;
+    text-align: center;
+    margin-left: -75px;
+}
+
 #computador-cartas, #jugador-cartas {
     height: 250px;
+    margin: auto;
+}
+
+.row .col h1 {
+    padding: 10px;
+    margin-left: 100px;
 }
