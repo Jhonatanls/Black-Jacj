@@ -34,6 +34,8 @@ El As (A) puede valer 1 o 11, según convenga a la mano.
 ```
 * Abre el archivo `index.html` en tu navegador web favorito para jugar.
 
+* Entra en este link de pages: https://jhonatanls.github.io/Black-Jack/
+
 ## Estructura del proyecto
 * `index.html:` Página principal donde se encuentra el tablero del juego.
 * `style.css:` Estilos personalizados adicionales sobre Bootstrap.
